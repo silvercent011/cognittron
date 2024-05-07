@@ -21,7 +21,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
       </head>
-      <body>
+      <body className="bg-theme_light-surface_1">
         {children}
         <ScrollRestoration />
         <Scripts />

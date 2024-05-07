@@ -13,7 +13,9 @@ export default {
         },
 
         primary: {
+          25: "#F9F8FF",
           500: "#7357FF",
+          400: "#8B75FF",
         },
         theme_light: {
           white: "#FFF",
@@ -21,6 +23,8 @@ export default {
           med_em: "#4F4B5C",
           surface_0: "#FFF",
           surface_1: "#F8F8F8",
+          disabled_light_em: "#E2E2E4",
+          primary_low_em: "#E2DCFF",
         },
       },
       fontFamily: {
